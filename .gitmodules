@@ -1,3 +1,6 @@
 [submodule "Aria2/source"]
 	path = Aria2/source
 	url = https://github.com/aria2/aria2
+[submodule "CiderPressII/source"]
+	path = CiderPressII/source
+	url = https://github.com/fadden/CiderPress2.git

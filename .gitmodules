@@ -4,3 +4,6 @@
 [submodule "CiderPressII/source"]
 	path = CiderPressII/source
 	url = https://github.com/fadden/CiderPress2.git
+[submodule "Tor/source"]
+	path = Tor/source
+	url = https://gitlab.torproject.org/tpo/core/tor.git

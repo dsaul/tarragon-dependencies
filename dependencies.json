@@ -1,0 +1,14 @@
+{
+	"7za*downloadURI*platform=win*v=1": ["https://github.com/dsaul/tarragon-dependencies/releases/download/0.0.5/7z2407-extra.tar.gz"],
+	"7za*extractedDirectoryName*platform=win*v=1": "7z2407-extra",
+	"7za*extractedExecutableName*platform=win*v=1": "7za.exe",
+	"aria2*downloadURI*platform=win*v=1": ["https://github.com/dsaul/tarragon-dependencies/releases/download/0.0.5/cp2_1.0.2_win-x64_fd.tar.xz"],
+	"aria2*extractedDirectoryName*platform=win*v=1": "aria2-1.37.0-win-64bit-build1",
+	"aria2*extractedExecutableName*platform=win*v=1": "aria2c.exe",
+	"cp2*downloadURI*platform=win*v=1": ["https://github.com/dsaul/tarragon-dependencies/releases/download/0.0.5/aria2-1.37.0-win-64bit-build1.tar.xz"],
+	"cp2*extractedDirectoryName*platform=win*v=1": "cp2_1.0.2_win-x64_fd",
+	"cp2*extractedExecutableName*platform=win*v=1": "cp2.exe",
+	"tor*downloadURI*platform=win*v=1": ["https://github.com/dsaul/tarragon-dependencies/releases/download/0.0.5/tor-expert-bundle-windows-x86_64-13.5.1.tar.xz"],
+	"tor*extractedDirectoryName*platform=win*v=1": "tor-expert-bundle-windows-x86_64-13.5.1",
+	"tor*extractedExecutableName*platform=win*v=1": "tor/tor.exe"
+}

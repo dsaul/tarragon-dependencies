@@ -7,3 +7,6 @@
 [submodule "Tor/source"]
 	path = Tor/source
 	url = https://gitlab.torproject.org/tpo/core/tor.git
+[submodule "Torrent FIle Editor/source"]
+	path = Torrent File Editor/source
+	url = https://github.com/torrent-file-editor/torrent-file-editor.git
